@@ -1,0 +1,22 @@
+.header_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+
+.logo_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
